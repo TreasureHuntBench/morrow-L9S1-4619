@@ -1,0 +1,14 @@
+WEBVTT
+
+NOTE kind=survey capture
+NOTE run_ref=L9S1-H0T2
+
+00:00:00.000 --> 00:00:27.000
+series calibration
+
+00:00:27.000 --> 00:00:28.000
+repository=morrow-L9S1-NZOQ
+document=registry/L9S1_KPY_bundle.md
+
+00:00:28.000 --> 00:00:33.000
+capture complete
